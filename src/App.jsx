@@ -15,7 +15,7 @@ function App() {
 
   return (
     <>
-      <h3>React Core Concepts 2</h3>
+      <h3>React Core Concept</h3>
 
       <Friends></Friends>
       <Users></Users>
